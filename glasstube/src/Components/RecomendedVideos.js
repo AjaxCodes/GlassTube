@@ -5,7 +5,9 @@ import "./RecomendedVideos.css";
 
 
 function RecomendedVideos() {
-  return <div></div>;
+  return <div className="recomended__videos">
+
+  </div>;
 }
 
 export default RecomendedVideos;

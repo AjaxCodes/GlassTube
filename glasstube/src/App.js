@@ -1,18 +1,13 @@
-import React from 'react'
-import './App.css';
-import glasstubelogo from "./Images/glasstubelogo.png";
-
-
-
-
+import React from "react";
+import "./App.css";
+import Header from "./Components/Header";
 
 function App() {
   return (
     <div className="app">
-    <img src={glasstubelogo} alt="" />
+      <Header />
     </div>
-  )
+  );
 }
 
-export default App
-
+export default App;
