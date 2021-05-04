@@ -1,0 +1,73 @@
+.header {
+  background: rgba(22, 20, 20, 0.7);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header__left {
+  color: #18ea00;
+  display: flex;
+  align-items: center;
+}
+.header__logo {
+  height: 40px;
+  object-fit: contain;
+  margin-left: 20px;
+}
+.header__burger {
+  font-size: 30px !important;
+}
+
+.header__center {
+  color: #18ea00;
+  display: flex;
+  align-items: center;
+  width: 40%;
+  border: 2px solid #18ea00;
+  border-radius: 10px;
+}
+::-webkit-input-placeholder {
+  color: white;
+}
+.header__center > input {
+  flex: 1;
+  color: white;
+  height: 20px;
+  border: none;
+
+  background: rgba(22, 20, 20, 0);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 5px;
+  
+}
+.header__inputButton {
+  width: 50px !important;
+  background: rgba(22, 20, 20, 0);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 5px;
+  border-left: 2px solid #18ea00;
+}
+
+.header__right {
+  color: #18ea00;
+  display: flex;
+  align-items: center;
+}
+.header__icon {
+  margin-right: 10px;
+  font-size: 30px !important;
+}

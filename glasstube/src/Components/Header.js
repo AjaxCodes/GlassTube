@@ -11,14 +11,20 @@ import Avatar from "@material-ui/core/Avatar";
 function Header() {
   return (
     <div className="header">
-      <MenuOpenSharpIcon />
-      <img className="header__logo" src={glasstubelogo} alt="" />
-      <input type="text" />
-      <YoutubeSearchedForSharpIcon />
-      <VideoCallSharpIcon />
-      <ViewModuleSharpIcon />
-      <NotificationsActiveSharpIcon />
-      <Avatar />
+      <div className="header__left">
+        <MenuOpenSharpIcon className="header__burger"/>
+        <img className="header__logo" src={glasstubelogo} alt="" />
+      </div>
+      <div className="header__center">
+        <input placeholder="Search" type="text" />
+        <YoutubeSearchedForSharpIcon className="header__inputButton"/>
+      </div>
+      <div className="header__right">
+        <VideoCallSharpIcon className="header__icon"/>
+        <ViewModuleSharpIcon className="header__icon"/>
+        <NotificationsActiveSharpIcon className="header__icon"/>
+        <Avatar />
+      </div>
     </div>
   );
 }
