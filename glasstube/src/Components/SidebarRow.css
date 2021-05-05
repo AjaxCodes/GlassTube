@@ -1,11 +1,11 @@
 .sidebarRow {
-  color: black;
+  color: #18ea00;
   display: flex;
   align-items: center;
   padding: 10px 20px;
 }
 .sidebarRow__icon {
-  color: black;
+  color: #18ea00;
   font-size: large !important;
 }
 .sidebarRow__title {
@@ -28,23 +28,26 @@
   color: white;
 }
 .sidebarRow:hover > .sidebarRow__title {
-  color: #18ea00;
+  color: white;
   font-size: 18px;
   font-weight: bold;
 }
 
 .sidebarRow.selected {
-  background: rgba(0, 0, 0, 0.4);
-  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px);
-  border-radius: 25px;
-  border: 1px solid rgba(255, 255, 255, 0.18);
-  color: #18ea00;
+    background: rgba( 24, 234, 0, 0.80 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    
+    
+  color: black;
 }
 .sidebarRow.selected > .sidebarRow__icon {
-  color: #18ea00;
+  color: black;
 }
 .sidebarRow.selected > .sidebarRow__title {
   font-weight: bolder;
+  color: black;
 }
