@@ -13,9 +13,13 @@
   margin-left: 10px;
 }
 .searchPage > hr {
-    height: 1px;
-    border: 0;
-    background-color:lightgray ;
-    margin-top: 10px;
-    margin-bottom: 10px;
+  height: 1px;
+  border: 0;
+  background-color: lightgray;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.search__subheader {
+  color: #606060;
+  font-size: medium !important;
 }
