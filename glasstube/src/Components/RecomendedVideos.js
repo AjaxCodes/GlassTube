@@ -78,6 +78,158 @@ function RecomendedVideos() {
           timestamp="2 years ago"
           channelImage="https://yt3.ggpht.com/ytc/AAUvwngxN7bqF1iAvn63o2kdsrQg4XO_TaFt33iyRuvY=s68-c-k-c0x00ffffff-no-rj"
         />
+        <Video
+          image="https://i.ytimg.com/vi/pKSc_h02fGk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCX419XDB0X_J5uB95KDn44pI_7sg"
+          title="Pat McAfee Reacts to Adam Shefter's Real ..."
+          channel="The Pat McAfee Show"
+          views="106k"
+          timestamp="3 hours ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwniTl-YzZl7GBsm4V8B2_OxQkvhTa8Xs-CHOgJPqKg=s68-c-k-c0x00ffffff-no-rj"
+        />
+        <Video
+          image="https://i.ytimg.com/vi/ljX5067QP4U/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAkq2zLy_6-dhAL2WOoDoWkxI7KTA"
+          title="Are The batman and Joker in the same Universe?"
+          channel="The John Campea Show"
+          views="8.9k"
+          timestamp="2 hours ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnhG54aFDyKOxWcxxhy92py13nbsomqgQS2tRgxA=s68-c-k-c0x00ffffff-no-rj"
+        />
+        <Video
+          image="https://i.ytimg.com/vi/6aMNLOPl-Kc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD2B8lzHd14-m6c7k5-gz5Z7uaFig"
+          title="Am I still and Apple Sheep"
+          channel="Talosive Tech"
+          views="6.1k"
+          timestamp="1 hour ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnj-7DCJvUZF_yBckrlzBYAHdnyN3Iu5X069ooLMUw=s68-c-k-c0x00ffffff-no-rj"
+        />
+        <Video
+          image="https://i.ytimg.com/vi/rpMClVCcgWM/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCAuIgzkmowOBLDOBfDjYGHO5QSUg"
+          title="Ironman Meets Iron Lady"
+          channel="Marvel Entertainment"
+          views="3.2M"
+          timestamp="5 years ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnhe7O9GvvpT9Xpju21bHY9He61Tpv-GT56cKVipzjs=s68-c-k-c0x00ffffff-no-rj"
+        />
+        <Video
+          image="https://i.ytimg.com/vi/VuVhwh-IVVg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD1l-AxN-FHdBeilMJcLzoITmqkoQ"
+          title="Apple M2 Chip Coming to Redesigned 14 & 16 Macbook Pros"
+          channel="MacRumors"
+          views="27k"
+          timestamp="6hours ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnjAWUntcgjoIqOhhMDQDUedlzuyKwSfVLbO-AAYLA=s68-c-k-c0x00ffffff-no-rj"
+        />
+        <Video
+          image="https://i.ytimg.com/vi/RRBIUZkQvLA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCNO6GeBdNLuZyD7pFA_zJHgOE2nw"
+          title="Clever Iphone modthat ensures battery never dies"
+          channel="Lew Later"
+          views="13k"
+          timestamp="5hours ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwni8V7-KIQRP1H8OjtHAYhf7wtsj_OTWqnN5KrJ4eA=s68-c-k-c0x00ffffff-no-rj"
+        />
+        <Video
+          image="https://i.ytimg.com/vi/F3XBPkKozP8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLgqI7eEtts7jSh2PIcSFj4qtGZA"
+          title="CDC projects sharp decline in COVID-19 caes by July"
+          channel="CBS Evning News"
+          views="37k"
+          timestamp="21 hours ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwngY0fWsYbphp15Gu3JPOmujdPPT0gldb3lkW8R_mA=s68-c-k-c0x00ffffff-no-rj"
+        />
+        <Video
+          image="https://i.ytimg.com/vi/-aP51T7Mh0E/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLATCo9ctwS2KCX2DmJihhVG4IkFzg"
+          title="R.I.P Xeon imac pro... Rise M1X pro"
+          channel="Rene Richie"
+          views="8.6k"
+          timestamp="3 hours ago"
+          channelImage="https://i.ytimg.com/vi/-aP51T7Mh0E/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLATCo9ctwS2KCX2DmJihhVG4IkFzg"
+        />
+        <Video
+          image="https://i.ytimg.com/vi/sREUxLFGwz0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB8vT-KLKbYMjuXI2uEYk2h6v6UmQ"
+          title="georges St-Pierre on The Falcon and Winter Soldier"
+          channel="Mens Health"
+          views="73k"
+          timestamp="1 week ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnj7297nLZPLtf5qpWINNS_SPkzCStGMn3No6mJYdg=s68-c-k-c0x00ffffff-no-rj"
+        />
+        <Video
+          image="https://i.ytimg.com/vi/B4dAwMT9810/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBZsq4feFdqmkujHLZXbY81Rn5vow"
+          title="Charles Barkley Golf yips Cured!"
+          channel="Brian Sutter MD"
+          views="3k"
+          timestamp="2 hours ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnisw5pWuENWMVxhX4NYd3hUpfPR2GrtvqCe4gtwqg=s68-c-k-c0x00ffffff-no-rj"
+        />
+        <Video
+          image="https://i.ytimg.com/vi/v-n0rkHMFqI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBvpUIJ5wzZjXzH4nCRAKF7cFAXEA"
+          title=""
+          channel=""
+          views=""
+          timestamp=""
+          channelImage=""
+        />
+        <Video
+          image="https://i.ytimg.com/vi/JnnGmpVGIbo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD2hm4DPiHnHhiCyNLny0MYjGm-jg"
+          title=""
+          channel=""
+          views=""
+          timestamp=""
+          channelImage=""
+        />
+        <Video
+          image="https://i.ytimg.com/vi/sGLn--gHpik/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCJaKkrebRgvxoy5iRdidG8RdihIA"
+          title=""
+          channel=""
+          views=""
+          timestamp=""
+          channelImage=""
+        />
+        <Video
+          image="https://i.ytimg.com/vi/ANrJt5jLj0E/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDWqufNHICYQ1i0Stf4gBbH6HUyVw"
+          title=""
+          channel=""
+          views=""
+          timestamp=""
+          channelImage=""
+        />
+        <Video
+          image="https://i.ytimg.com/vi/N2CWf1N8g2s/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBDslsxSjGiRV2RNgrA2gCfS7JDYA"
+          title=""
+          channel=""
+          views=""
+          timestamp=""
+          channelImage=""
+        />
+        <Video
+          image=""
+          title=""
+          channel=""
+          views=""
+          timestamp=""
+          channelImage=""
+        />
+        <Video
+          image=""
+          title=""
+          channel=""
+          views=""
+          timestamp=""
+          channelImage=""
+        />
+        <Video
+          image=""
+          title=""
+          channel=""
+          views=""
+          timestamp=""
+          channelImage=""
+        />
+        <Video
+          image=""
+          title=""
+          channel=""
+          views=""
+          timestamp=""
+          channelImage=""
+        />
         
         
         
