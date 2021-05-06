@@ -160,79 +160,111 @@ function RecomendedVideos() {
         />
         <Video
           image="https://i.ytimg.com/vi/v-n0rkHMFqI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBvpUIJ5wzZjXzH4nCRAKF7cFAXEA"
-          title=""
-          channel=""
-          views=""
-          timestamp=""
-          channelImage=""
+          title="Winner fights Usman loser fights Mazdival"
+          channel="Chael Sonnen"
+          views="54k"
+          timestamp="19 hours ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnjM7jP7WfkLuR3tsMLZ9SvlorteGRJ_DdqJMIm42g=s68-c-k-c0x00ffffff-no-rj"
         />
         <Video
           image="https://i.ytimg.com/vi/JnnGmpVGIbo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD2hm4DPiHnHhiCyNLny0MYjGm-jg"
-          title=""
-          channel=""
-          views=""
-          timestamp=""
-          channelImage=""
+          title="Matebook X Pro vs M1 Mackbook Air"
+          channel="Max Tech"
+          views="36k"
+          timestamp="7 hours ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnjMiZOIgf5PMLDGrQQJpaem3t-ETRoWbMwA5LwM=s68-c-k-c0x00ffffff-no-rj"
         />
         <Video
           image="https://i.ytimg.com/vi/sGLn--gHpik/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCJaKkrebRgvxoy5iRdidG8RdihIA"
-          title=""
-          channel=""
-          views=""
-          timestamp=""
-          channelImage=""
+          title="Aaron Rodgers Final Jeopardy!"
+          channel="Jeopardy!"
+          views="1.3M"
+          timestamp="1 month ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnhi7v2Ec22xEWL31HE6AYCdcXC3seJK-E6jtXpVGg=s68-c-k-c0x00ffffff-no-rj"
         />
         <Video
           image="https://i.ytimg.com/vi/ANrJt5jLj0E/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDWqufNHICYQ1i0Stf4gBbH6HUyVw"
-          title=""
-          channel=""
-          views=""
-          timestamp=""
-          channelImage=""
+          title="Skip & Shannon on Aaron Rodgers"
+          channel="Skip & Shannon UNDISPUTED"
+          views="57k"
+          timestamp="4 hours ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwngrTqMad33T4_HSmgbkUUHU8VVJcYwTM77ORK5AEA=s68-c-k-c0x00ffffff-no-rj"
         />
         <Video
           image="https://i.ytimg.com/vi/N2CWf1N8g2s/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBDslsxSjGiRV2RNgrA2gCfS7JDYA"
-          title=""
-          channel=""
-          views=""
-          timestamp=""
-          channelImage=""
+          title="falcon and Winter Soldier Review"
+          channel="Chris Stuckman"
+          views="302k"
+          timestamp="5 days ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnjq2n-MEVMW_wfbgviCtdsgym6846C42kJq5OGz=s68-c-k-c0x00ffffff-no-rj"
         />
         <Video
-          image=""
-          title=""
-          channel=""
-          views=""
-          timestamp=""
-          channelImage=""
+          image="https://i.ytimg.com/vi/ONraFRVwY6o/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBdFjWF52InkMbAtucNDtpn1mTbmw"
+          title="3 Hours of Background Music For Studying"
+          channel="Quiet Quest - Study Music"
+          views="624k views"
+          timestamp="5 months ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnhrY4fT_t-iZwKbxk6LjNJ8X96OQMDnmVl4k_3H=s68-c-k-c0x00ffffff-no-rj"
+        />
+       
+        <Video
+          image="https://i.ytimg.com/vi/t2h4XAAScb8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA-hF4mltDqDO1H2yCcjk98PHjHkw"
+          title="STREETBEEFS TITLE MATCH | BABY HULK vs VIKING "
+          channel="STREETBEEFS"
+          views="23M views"
+          timestamp="9 months ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnjvGA5QdNJzIZErwmXzm6FpAAmxa_8cRpa6tv_dBQ=s68-c-k-c0x00ffffff-no-rj"
+        />
+       
+        <Video
+          image="https://i.ytimg.com/vi/pdtwzObNgFY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDSvnki1Pmp-PKgy3LR_JrMvimnPQ"
+          title="Marvel Studios - Official MCU Phase 4 Trailer "
+          channel="IGN"
+          views="5.7M views"
+          timestamp="2 Days ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnh_K6aeqm8emeehhvj8KGbsE1rPlJhE3Mnt6BAhLOY=s68-c-k-c0x00ffffff-no-rj"
         />
         <Video
-          image=""
-          title=""
-          channel=""
-          views=""
-          timestamp=""
-          channelImage=""
+          image="https://i.ytimg.com/vi/vBAQ0fdn3sc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDqhb-bxHmpqDcnfwfzO4YSd7xyiA"
+          title="Mercedes EQS is the Most Luxurious Electric Car"
+          channel="Unbox Therepy"
+          views="1.5M views"
+          timestamp="2 Days ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnh3QH3UYxKLoz4S9dRE9dDo_nhqE6cUZYASHYTJQQ=s68-c-k-c0x00ffffff-no-rj"
         />
         <Video
-          image=""
-          title=""
-          channel=""
-          views=""
-          timestamp=""
-          channelImage=""
+          image="https://i.ytimg.com/vi/Tvg9-2JS2Js/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB60Wa8mxZHCgQyxVAKAL3p3Otdfw"
+          title="Apple Mackbook Pro 14 Inch Release Date & Price"
+          channel="Matt Talks Tech"
+          views="95k views"
+          timestamp="4 Days ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnhKLyK5VzFKH0nT4N9TayM5dIhbxl7-BlCpHaqZ0tU=s68-c-k-c0x00ffffff-no-rj"
+        />
+
+        <Video
+          image="https://i.ytimg.com/vi/I_ZK0t9-llo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDMkeGY84MkSodqpmwc0hZM9PprVQ"
+          title="Stack Overflow is full of idiots"
+          channel="ForrestKnight"
+          views="125k views"
+          timestamp="2 months ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnh7I6mMngEXfmumdBh675wBMTbqGGEpdK52NGxoZQ=s68-c-k-c0x00ffffff-no-rj"
         />
         <Video
-          image=""
-          title=""
-          channel=""
-          views=""
-          timestamp=""
-          channelImage=""
+          image="https://i.ytimg.com/vi/c1vOn8rQ5LE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAwX_eztowHcqIteTcvBLa-NYkofQ"
+          title="President Biden delivers remarks on Covid-19 vaccination goals 5/4/21"
+          channel="CNBC Television"
+          views="264k views"
+          timestamp="1 day ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwng1xfuRQEgV99Wq_kffyvHnKD75arUW0OpJVp2X=s68-c-k-c0x00ffffff-no-rj"
         />
-        
-        
-        
+        <Video
+          image="https://i.ytimg.com/vi/p6XeBJ_8yus/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDwdFw7WqYn9iZzCKgDygbq5uyrsQ"
+          title="How India's Covid Surge Affects the Global Vaccine Supply | WSJ"
+          channel="Wall Street Journal"
+          views="31k views"
+          timestamp="6 hours ago"
+          channelImage="https://yt3.ggpht.com/ytc/AAUvwnh-8iXpklWGiO-MHDPN3uJwPU7HBOtSdAGTac-DINg=s68-c-k-c0x00ffffff-no-rj"
+        />
       </div>
     </div>
   );
