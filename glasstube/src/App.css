@@ -1,3 +1,10 @@
-.app__page{
+.app__page {
+  display: flex;
+  background: #000000;
+  background: -webkit-linear-gradient(to top, #000000, #18ea00);
+  background: linear-gradient(to top, #000000, #18ea00);
+  
+}
+.app__page_search{
   display: flex;
 }

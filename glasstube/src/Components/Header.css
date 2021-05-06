@@ -50,7 +50,9 @@
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
   border-radius: 5px;
-  
+}
+a {
+  color: #18ea00;
 }
 .header__inputButton {
   width: 55px !important;
@@ -61,6 +63,9 @@
   border-radius: 5px;
   border-left: 2px solid #18ea00;
 }
+.Link > .header__inputButton {
+  color: #ff0000;
+}
 
 .header__right {
   color: #18ea00;
@@ -70,4 +75,5 @@
 .header__icon {
   margin-right: 10px;
   font-size: 30px !important;
+  color: #18ea00;
 }

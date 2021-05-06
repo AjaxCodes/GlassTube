@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import "./Header.css";
 import glasstubelogo from "../Images/glasstubelogo.png";
 import MenuOpenSharpIcon from "@material-ui/icons/MenuOpenSharp";
@@ -7,17 +7,29 @@ import VideoCallSharpIcon from "@material-ui/icons/VideoCallSharp";
 import ViewModuleSharpIcon from "@material-ui/icons/ViewModuleSharp";
 import NotificationsActiveSharpIcon from "@material-ui/icons/NotificationsActiveSharp";
 import Avatar from "@material-ui/core/Avatar";
+import { Link } from "react-router-dom";
 
 function Header() {
+  const [inputSearch, setInputSearch] = useState("");
+
   return (
     <div className="header">
       <div className="header__left">
         <MenuOpenSharpIcon className="header__burger" />
-        <img className="header__logo" src={glasstubelogo} alt="" />
+        <Link to="/">
+          <img className="header__logo" src={glasstubelogo} alt="" />
+        </Link>
       </div>
       <div className="header__center">
-        <input placeholder="Search" type="text" />
-        <YoutubeSearchedForSharpIcon className="header__inputButton" />
+        <input
+          onChange={(e) => setInputSearch(e.target.value)}
+          value={inputSearch}
+          placeholder="Search"
+          type="text"
+        />
+        <Link to={`/search/${inputSearch}`}>
+          <YoutubeSearchedForSharpIcon className="header__inputButton" />
+        </Link>
       </div>
       <div className="header__right">
         <VideoCallSharpIcon className="header__icon" />
