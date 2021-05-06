@@ -13,10 +13,10 @@ function Search() {
       <hr />
       <h2>Latest from </h2>
       <ChannelRow
-      image="https://www.youtube.com/channel/UCRM3UBEgpiw3CzL4C9Z7CEA"
+      image="https://yt3.ggpht.com/yti/ANoDKi4jwCrA7XM7qIHF3YAV5xAHSXMFv5O4QN1NjKNy=s88-c-k-c0x00ffffff-no-rj-mo"
       channel="Ajax Codes"
-      verified=""
-      subs=""
+      verified="yes"
+      subs="0"
       noOfVideos={2}
       discription="Live demos created by Aj Steinbacher"
       />
