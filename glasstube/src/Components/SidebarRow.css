@@ -11,7 +11,7 @@
 .sidebarRow__title {
   flex: 1;
   margin-left: 20px;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 500;
 }
 
@@ -29,8 +29,8 @@
 }
 .sidebarRow:hover > .sidebarRow__title {
   color: white;
-  font-size: 18px;
-  font-weight: bold;
+  
+  
 }
 
 .sidebarRow.selected {

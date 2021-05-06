@@ -12,18 +12,21 @@ function Header() {
   return (
     <div className="header">
       <div className="header__left">
-        <MenuOpenSharpIcon className="header__burger"/>
+        <MenuOpenSharpIcon className="header__burger" />
         <img className="header__logo" src={glasstubelogo} alt="" />
       </div>
       <div className="header__center">
         <input placeholder="Search" type="text" />
-        <YoutubeSearchedForSharpIcon className="header__inputButton"/>
+        <YoutubeSearchedForSharpIcon className="header__inputButton" />
       </div>
       <div className="header__right">
-        <VideoCallSharpIcon className="header__icon"/>
-        <ViewModuleSharpIcon className="header__icon"/>
-        <NotificationsActiveSharpIcon className="header__icon"/>
-        <Avatar />
+        <VideoCallSharpIcon className="header__icon" />
+        <ViewModuleSharpIcon className="header__icon" />
+        <NotificationsActiveSharpIcon className="header__icon" />
+        <Avatar
+          alt=""
+          src="https://yt3.ggpht.com/yti/ANoDKi4jwCrA7XM7qIHF3YAV5xAHSXMFv5O4QN1NjKNy=s88-c-k-c0x00ffffff-no-rj-mo"
+        />
       </div>
     </div>
   );
