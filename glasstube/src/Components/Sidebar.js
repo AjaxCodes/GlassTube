@@ -17,11 +17,11 @@ function Sidebar() {
   return (
     <div className="sidebar">
       <Link to="/">
-        <SidebarRow Icon={HomeSharpIcon} title="Home" />
+        <SidebarRow selected Icon={HomeSharpIcon} title="Home" />
       </Link>
 
       <SidebarRow Icon={WhatshotSharpIcon} title="Trending" />
-      <SidebarRow selected Icon={SubscriptionsSharpIcon} title="Subscription" />
+      <SidebarRow  Icon={SubscriptionsSharpIcon} title="Subscription" />
       <hr />
       <SidebarRow Icon={VideoLibrarySharpIcon} title="Library" />
       <SidebarRow Icon={HistorySharpIcon} title="History" />

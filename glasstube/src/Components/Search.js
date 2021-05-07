@@ -34,7 +34,7 @@ function Search() {
         timestamp="5 Days ago"
         channel="Ajax Codes"
         title="Covid Tracker"
-        image="https://i.ytimg.com/vi/ooSa5dd12WE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBCOw7IiuyvMAe-4iJ4x970kymtIQ"
+        image="https://i.ytimg.com/vi/eVTLVvnXJSg/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDJRQARtFvoD78yUHMw1HDytnWa_A"
       />
       <VideoRow
         views="2 views"
@@ -44,8 +44,8 @@ function Search() {
         timestamp="1 day ago"
         channel="Ajax Codes"
         title="GlassTube"
-        image="https://i.ytimg.com/vi/ooSa5dd12WE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBCOw7IiuyvMAe-4iJ4x970kymtIQ"
-      />
+        image="https://i.ytimg.com/vi/Vy0E6ZAKjXI/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD1fVCWqVmcKzlaOgFtjDDbyQDb_Q"
+        />
       <hr />
       <h2 className="search__subheader">More like Ajax Codes </h2>
 
